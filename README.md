@@ -2,7 +2,7 @@
 
 An intuitive dashboard harnessing the [Mobula API](https://developer.mobula.fi/reference/metadata-api) to display Solana wallet balances in real-time.
 
-![Solana Logo](https://i.imgur.com/Yh7mYpP.png) ![Mobula Logo]([https://i.imgur.com/za7HeV6.png)
+![Solana Logo](https://i.imgur.com/Yh7mYpP.png) ![Mobula Logo](https://i.imgur.com/za7HeV6.png)
 
 ---
 
