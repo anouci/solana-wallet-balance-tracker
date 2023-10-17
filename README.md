@@ -52,6 +52,6 @@ More detailed information on this endpoint can be found in the official [Mobula 
 
 ---
 
-### Crafted with ❤️, leveraging the robust capabilities of [Mobula API](https://developer.mobula.fi/)
+### Crafted with ❤️ leveraging the capabilities of [Mobula API](https://developer.mobula.fi/)
 
 ---
