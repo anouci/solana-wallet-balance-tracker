@@ -21,7 +21,7 @@ An intuitive dashboard harnessing the [Mobula API](https://developer.mobula.fi/r
   
 - **Historical Data:** Track the historical balance of your Solana wallet with ease.
 
-- **Secure and Reliable:** Powered by the trusted Mobula API for accurate and up-to-date information.
+- **Secure and Reliable:** Powered by Mobula API for accurate and up-to-date information.
 
 ---
 
