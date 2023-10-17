@@ -1,4 +1,4 @@
-# Solana Wallet Balance Tracker 💼🔍
+# Solana Wallet Balance Tracker 💼 🔍
 
 An intuitive dashboard harnessing the [Mobula API](https://developer.mobula.fi/reference/metadata-api) to display Solana wallet balances in real-time.
 
